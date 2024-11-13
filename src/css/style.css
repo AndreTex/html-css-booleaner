@@ -1,0 +1,17 @@
+.wrapper{
+    background-image: url("/src/img/pattern.png");
+    background-color: #A8D4F1;
+    margin: 0;
+    padding: 0;
+    height: 150px;
+    width: 100%;
+}
+
+.container{
+    padding: 25px;
+}
+.img-logo{
+    width: 250px;
+    height: 100px;
+    margin-left: 150px;
+}
